@@ -1,2 +1,2 @@
-/ 
-  Basic-Auth: username:password
+/*  
+  Basic-Auth: myuser mypassword
